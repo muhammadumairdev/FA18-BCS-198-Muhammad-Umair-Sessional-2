@@ -1,0 +1,20 @@
+.container {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .product {
+    color: 96bb7c;
+    background-color: 2f5d62;
+    margin-bottom: 10px;
+  }
+  .prodts p {
+    padding: 3px;
+  }
+  #BTN {
+    color: c64756;
+    background-color: 2f5d62;
+    margin-bottom: 10px;
+  }
+  #b {
+    margin-bottom: 30px;
+  }
